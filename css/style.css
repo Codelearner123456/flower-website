@@ -115,7 +115,7 @@ header .fa-bars {
   display: flex;
   align-items: center;
   min-height: 100vh;
-  background: url(image/Flower10.jpg) no-repeat;
+  background: url(http://127.0.0.1:5500/image/Flower10.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   color: #666;
